@@ -4,3 +4,6 @@
 [submodule "submodules/bioperl-live"]
 	path = submodules/bioperl-live
 	url = https://github.com/bioperl/bioperl-live
+[submodule "submodules/velvet"]
+	path = submodules/velvet
+	url = https://github.com/dzerbino/velvet

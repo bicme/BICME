@@ -11,3 +11,13 @@
 *.lai
 *.la
 *.a
+
+# debug/release folder
+Debug/
+Release/
+GeneratedFiles/
+
+# project file
+*.suo
+*.sdf
+*.opensdf
