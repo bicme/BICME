@@ -1,0 +1,6 @@
+[submodule "submodules/biopython"]
+	path = submodules/biopython
+	url = https://github.com/biopython/biopython.git
+[submodule "submodules/bioperl-live"]
+	path = submodules/bioperl-live
+	url = https://github.com/bioperl/bioperl-live
